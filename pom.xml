@@ -263,11 +263,6 @@
 		    </plugins>
 		</pluginManagement>
 	</build>
-    
-	<modules>
-		<module>microservicecloud-api</module>
-		<module>microservicecloud-eureka-7001</module>
-	</modules>
-
+  
 </project>
 
